@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a backend course",
+  "keywords": [
+    "backend",
+    "node",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "Akash Rajput",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
